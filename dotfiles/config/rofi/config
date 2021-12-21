@@ -1,0 +1,17 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+#		   Window	  Border  Separator
+rofi.color-window: argb:B0000000, #FFC42E, argb:D0000000
+
+#		   Background	  Foreground	 Alt Background Highlight Bg   Highlight Fg
+rofi.color-normal: argb:EE000000, argb:FFFF0000, argb:00000000, #FFC42E, argb:D0000000
+rofi.color-active: argb:00000000, argb:D0FF0000, argb:00000000, argb:A0FFC42E, argb:D0000000
+rofi.color-urgent: argb:00000000, argb:D0FF0000, argb:00000000, argb:A0FFC42E, argb:D0000000
+
+
+
+
+rofi.font: MonacoB 14
+rofi.hide-scrollbar: true
